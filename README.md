@@ -1,17 +1,1 @@
-# Índice
-
-## 1. Descripción del Dataset
-   - Origen de los datos
-   - Número de artículos
-
-## 2. Pre-procesamiento
-   - Limpieza de datos
-   - Transformaciones aplicadas
-
-## 3. Visualizaciones
-   - Análisis Exploratorio de Datos (EDA)
-   - Frecuencia de palabras clave
-
-## 4. Modelos No Supervisados Empleados
-   - Identificación de conceptos clave
-   - Agrupación por palabras clave
+![1552485208634](https://github.com/user-attachments/assets/5a22f327-e2e4-45d1-b37c-8ecaeebff15d)
