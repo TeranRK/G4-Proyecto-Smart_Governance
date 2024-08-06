@@ -1,4 +1,4 @@
-## Proyecto Smart Governance Proyecto Smart Governance
+## Proyecto Smart Governance 
 
 Smart Governance se refiere a la aplicación de tecnologías avanzadas y datos inteligentes para mejorar la eficiencia, transparencia y participación ciudadana en la gestión pública y toma de decisiones gubernamentales.
 
