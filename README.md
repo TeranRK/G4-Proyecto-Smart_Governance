@@ -24,7 +24,7 @@ Smart Governance se refiere a la aplicación de tecnologías avanzadas y datos i
   - [Identificación de conceptos clave](#identificación-de-conceptos-clave)
   - [Agrupación por palabras clave](#agrupación-por-palabras-clave)
 
-### 1. Descripción del Dataset
+## 1. Descripción del Dataset
 ### Origen de los Datos
 ### 🔗 Links: <https://www.scopus.com/home.uri>
 ![](https://upload.wikimedia.org/wikipedia/commons/2/26/Scopus_logo.svg) 
@@ -38,7 +38,7 @@ Smart Governance se refiere a la aplicación de tecnologías avanzadas y datos i
 ### Número de artículos
 - Se descargaron 1,716 artículos de investigación, todos en inglés, que abarcan el período de 2020 a 2024. Estos artículos se enfocan en estudios detallados y análisis profundos sobre la implementación de tecnologías avanzadas en la gestión urbana, específicamente dentro del marco de la smart governance. Los datos de ScienceDirect se descargaron en formato BibTeX.
 
-### 2. Pre-procesamiento
+## 2. Pre-procesamiento
 ### Combinación de Bibtex a CSV
 - Los datos fueron inicialmente descargados en formato BibTeX. Para facilitar su análisis, se realizó una conversión de este formato a CSV utilizando Google Colab.
 
@@ -91,12 +91,12 @@ Smart Governance se refiere a la aplicación de tecnologías avanzadas y datos i
 
 ### Transformaciones aplicadas
 
-### 3. Visualizaciones
+## 3. Visualizaciones
 ### Análisis Exploratorio de Datos (EDA)
 ### Frecuencia de palabras clave
 
 
-### 4. Modelos no supervisados empleados
+## 4. Modelos no supervisados empleados
 
 ### Identificación de conceptos clave
 
